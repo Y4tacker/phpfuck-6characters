@@ -7,6 +7,7 @@ only 6 characters to rce
 `( ) ^ 9 . ;`
 
 ## Useage
+当然这里很明显只支持了，单个语句，不支持嵌套语句操作
 
 ```
 php 6character-rce.php system(\"whoami\");
