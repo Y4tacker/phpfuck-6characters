@@ -1,5 +1,5 @@
 # phpfuck-6characters
-@Y4tacker
+从之前外国外CTF学习的姿势，不兼容多层嵌套，可以自己改
 ## Description:
 
 only 6 characters to rce
